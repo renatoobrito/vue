@@ -9,7 +9,7 @@
 <p>Pré-requisitos: Nodejs | VueCli | Git</p>
 
 ### No terminal clone o projeto:
-> git clone https://github.com/renatoobrito/vue_componente-desafio.git
+> git clone /* https://github.com/renatoobrito/vue_componente-desafio.git */
 
 ### Entre na pasta do projeto:
 > cd componente-desafio
@@ -24,12 +24,12 @@ npm install
 npm run serve
 ```
 
-### Compila e minimiza para produção:
+### Compila e minimiza para produção: (opcional)
 ```
 npm run build
 ```
 
-### Lints e conserta arquivos:
+### Lints e conserta arquivos: (opcional)
 ```
 npm run lint
 ```
