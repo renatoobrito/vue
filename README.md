@@ -1,5 +1,5 @@
 <h1 align="center">Componente Desafio</h1>
-<p align="justify">Meu primeiro desafio com Vuejs ministrado por <a href="https://github.com/leonardomleitao">Leonardo Leitão</a> da escola <a href="https://www.cod3r.com.br/">Cod3r</a> através da plataforma da <a href="https://www.udemy.com/">Udemy</a>. Estou muito empolgado em aprender as maravilhas do Vue. :grin:</p>
+<p align="justify">Meu primeiro desafio com Vuejs ministrado por <a href="https://github.com/leonardomleitao">Leonardo Leitão</a> da escola <a href="https://www.cod3r.com.br/">Cod3r</a> através da plataforma <a href="https://www.udemy.com/">Udemy</a>. Estou muito empolgado em aprender as maravilhas do Vue. :grin:</p>
 
 ## Home do Projeto
 
