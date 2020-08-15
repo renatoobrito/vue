@@ -8,11 +8,9 @@
 <h2>Como rodar a aplicação :grey_exclamation:</h2>
 
 ### No terminal clone o projeto:
-/* */
 > git clone https://github.com/renatoobrito/vue_componente-desafio.git
 
 ### Entre na pasta do projeto:
-/**/
 > cd componente-desafio
 
 <p>Pré-requisitos: Nodejs | VueCli | Git</p>
