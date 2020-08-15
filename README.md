@@ -1,6 +1,6 @@
 <h1 align="center">Componente Desafio</h1>
-<p align="justify">Meu primeiro desafio com Vuejs ministrado por <a href="https://github.com/leonardomleitao"><i>Leonardo Leitão</i></a> da escola <a href="https://www.cod3r.com.br/"><i>Cod3r</i></a> através da plataforma da<a href="https://www.udemy.com/"><i>Udemy</i></a>. Estou muito empolgado em aprender as maravilhas do Vue.</p>
-<p>Sinta-se a vontade para deixar um feedback, sugestão ou baixar o projeto na sua máquina</p>
+<p align="justify">Meu primeiro desafio com Vuejs ministrado por <a href="https://github.com/leonardomleitao"><i>Leonardo Leitão</i></a> da escola <a href="https://www.cod3r.com.br/"><i>Cod3r</i></a> através da plataforma da <a href="https://www.udemy.com/"><i>Udemy</i></a>. Estou muito empolgado em aprender as maravilhas do Vue.</p> :grin:
+<p>Sinta-se a vontade para deixar um feedback, sugestão ou até mesmo baixar o projeto na sua máquina</p>
 
 ## Project setup
 ```
