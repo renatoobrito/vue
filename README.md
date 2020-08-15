@@ -6,10 +6,10 @@
 <p>Sinta-se a vontade para deixar um feedback, sugestão ou até mesmo baixar o projeto na sua máquina. :heavy_check_mark:</p>
 
 <h2>Como rodar a aplicação :grey_exclamation:</h2>
-<p>Pré-requisitos: Nodejs | VueCli | Git</p>
+<p>Instalado na sua máquina: Nodejs | VueCli | Git</p>
 
 ### No terminal clone o projeto:
-> git clone /* https://github.com/renatoobrito/vue_componente-desafio.git */
+> git clone https://github.com/renatoobrito/vue_componente-desafio.git
 
 ### Entre na pasta do projeto:
 > cd componente-desafio
