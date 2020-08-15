@@ -5,25 +5,33 @@
 
 <p>Sinta-se a vontade para deixar um feedback, sugestão ou até mesmo baixar o projeto na sua máquina. :heavy_check_mark:</p>
 
-## Project setup
+<h2>Como rodar a aplicação :grey_exclamtation:</h2>
+<p>No terminal clone o projeto:</p>
+/* git clone https://github.com/renatoobrito/vue_componente-desafio.git */
+<p>Entre na pasta do projeto:</p>
+/* cd componente-desafio */
+
+<p>Pré-requisitos na sua máquina: Nodejs | VueCli | Git</p>
+
+## Instale as dependências:
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compila e recarrega-rápido para desenvolvimento:
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compila e minimiza para produção:
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### Lints e conserta arquivos:
 ```
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Personalize a configuração:
+Veja [Configuration Reference](https://cli.vuejs.org/config/).
