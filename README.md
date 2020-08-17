@@ -7,7 +7,7 @@ Meu primeiro desafio com Vuejs ministrado por [Leonardo Leitão](https://github.
 Sinta-se a vontade para deixar um feedback, sugestão ou até mesmo baixar o projeto na sua máquina. :heavy_check_mark:
 
 ## Como rodar a aplicação :grey_exclamation:
-Instalado em sua máquina: Nodejs | VueCli | Git
+Instalado em sua máquina: Nodejs | Vue CLI | Git
 
 **No terminal clone o projeto:**
 ```
